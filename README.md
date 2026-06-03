@@ -2,4 +2,4 @@
 Pokemon Fangame in RPGM XP, very early project by passionate beginners !
 
 
-#Thanks and Credits :
+# Thanks and Credits :
