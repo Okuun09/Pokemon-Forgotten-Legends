@@ -1,5 +1,5 @@
 # Pokémon Forgotten Legends
-Pokemon Fangame in RPGM XP, very early project by passionate beginners !
+Pokemon Fangame in RPGM XP, very early project by passionate beginners ! (-(-_-)-)
 
 
 # Thanks and Credits :
@@ -17,9 +17,9 @@ Lucidious89 for the "Deluxe Battle Kit", "Modular UI Scenes", "Animated Pokemon 
 * https://eeveeexpo.com/resources/1472/
 * https://eeveeexpo.com/resources/1544/
 
-Maruno for the "v21.1 Hotfixes plugin"
+Maruno for Pokemon Essentials and the "v21.1 Hotfixes plugin"
 * https://eeveeexpo.com/resources/1376/
-
+* https://eeveeexpo.com/essentials/
 
 Caruban for the "Generation 9 Resource Pack" plugin
 * https://eeveeexpo.com/resources/1101/
